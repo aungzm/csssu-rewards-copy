@@ -25,7 +25,7 @@
 ![Screenshot 2025-04-11 at 20-23-47 Vite React TS](https://github.com/user-attachments/assets/b8932213-b51d-4a37-a2fc-cfeb5877ac0c)
 
 # csssu-rewards-copy
-This is a copy of the cssu repository which cannot be public at the moment. 
+This is a copy of the cssu repository which cannot be public at the moment as we are in a competition to build a points system for Computer Science Student Union at University of Toronto St.George
 Backend Deployment Instructions
 ----------------------------------
 
