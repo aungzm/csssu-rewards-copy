@@ -233,25 +233,9 @@ npm run preview
 
 * * * * *
 
-### Code Quality
+### Demo instance
 
-Run ESLint to analyze code for potential issues:
-
-```
-npm run lint
-
-```
-
-* * * * *
-
-### Useful Scripts
-
-| Command | Description |
-| --- | --- |
-| `npm run dev` | Start the dev server with hot reload |
-| `npm run build` | Build the app for production |
-| `npm run preview` | Preview the production build locally |
-| `npm run lint` | Run ESLint for code quality checks |
+Demo can be found at: [frontend-production-9895.up.railway.app](frontend-production-9895.up.railway.app)
 
 * * * * *
 ## Installed Packages
